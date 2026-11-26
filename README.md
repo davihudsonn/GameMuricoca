@@ -52,17 +52,7 @@ Foi meu primeiro jogo desenvolvido utilizando essas tecnologias e representa uma
 
 ## 📸 Demonstração
 
-### Tela inicial
-
-![Tela inicial](./assets/tela-inicial.png)
-
-### Seleção de dificuldade
-
-![Seleção de nível](./assets/selecao-nivel.png)
-
-### Durante o jogo
-
-![Jogo](./assets/jogo.png)
+https://gamemuricoca.vercel.app/
 
 ## 👨‍💻 Autor
 
